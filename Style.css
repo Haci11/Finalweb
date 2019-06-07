@@ -24,12 +24,37 @@
   height: 100vh;
   width: 15vw;
   float: left;
-  background-color: grey;
+  background-color: White;
 }
 
 #sidebar2{
   height: 100vh;
   width: 15vw;
   float: right;
-  background-color: darkblue;
+  background-color: White;
+}
+
+#Spec{
+  height: 30vh;
+  width: 15;
+  background-color: White;
+  margin-top: 113px;
+}
+a{
+  text-decoration: none;
+  display: block;
+  color: darkgray;
+  width: 50px;
+}
+#hmm{
+  width: 55px;
+  height: 55px;
+}
+img{
+  width: 50px;
+  height: 50px;
+}
+
+a:hover{
+  opacity: 0.7;
 }
